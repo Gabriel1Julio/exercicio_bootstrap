@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 66px;
+    padding: 16px;
+    color: #fff;
+    background-color: #151d27;
+}
+
+.form {
+    margin-top: 36px;
+}
+
+.form button:hover {
+    background-color: #fff;
+    color: #0d6efd;
+}
+
+
